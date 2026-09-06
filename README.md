@@ -1,11 +1,3 @@
-# Установка зависимостей
+https://github.com/SayNyaOrDie/higher-web-practice-calculator
 
-npm install
-
-# Запуск в режиме разработки
-
-npm run dev
-
-# Сборка для продакшена
-
-npm run build
+Терентьев Данила, M4229
